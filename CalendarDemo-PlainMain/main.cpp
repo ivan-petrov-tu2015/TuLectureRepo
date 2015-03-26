@@ -56,7 +56,7 @@ void printHeader(unsigned int m) {
 	if (m == 1)
 		std::cout << "JAN";
 	else if (m == 2)
-		std::cout << "February";
+		std::cout << "FEBRUARY";
 	else if (m == 3)
 		std::cout << "March";
 	else if (m == 4)
