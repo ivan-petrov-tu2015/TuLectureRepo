@@ -79,7 +79,7 @@ void printHeader(unsigned int m) {
 		std::cout << "December";
 
 	std::cout << "\n S  M  T  W  T  F  S" << "\n";
-	std::cout << "____________________" << "\n";
+	std::cout << "=================" << "\n";
 }
 
 void skip(unsigned int i) {
